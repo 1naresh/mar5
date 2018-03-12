@@ -1,0 +1,17 @@
+.product {
+    border: 1px solid #ff0000;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.img-group{
+    padding: 80px 20px;
+    height: 200px;
+}
+.btn-shape{
+    display: block;
+    margin: 15px 10px;
+}
+.wall{
+    width: 200px;
+}
